@@ -12,6 +12,7 @@ namespace 第2組期末專案.Controllers
         public IActionResult List()
         {
 //測試用
+//123
             return View();
 
         }
