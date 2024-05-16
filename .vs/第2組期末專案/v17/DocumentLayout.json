@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,28 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Program.cs",
+              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Program.cs",
+              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:46:26.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
               "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T06:24:42.549Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
