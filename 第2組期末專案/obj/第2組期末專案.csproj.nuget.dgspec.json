@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj": {}
+    "C:\\Users\\User\\Desktop\\新增資料夾 (3)\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj": {
+    "C:\\Users\\User\\Desktop\\新增資料夾 (3)\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\新增資料夾 (3)\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj",
         "projectName": "第2組期末專案",
-        "projectPath": "C:\\Users\\User\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\新增資料夾 (3)\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\新增資料夾 (3)\\MSIT158-2-Final-Project\\第2組期末專案\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -84,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
