@@ -1,0 +1,99 @@
+﻿@model IEnumerable<第2組期末專案.Models.TProduct>
+
+@{
+    ViewData["Title"] = "List";
+    Layout = "_Layout_Back";
+}
+<h1>商品列表</h1>
+
+<p>
+    <a asp-action="Create">新增商品</a>
+</p>
+            <div class="card-body px-0 pt-0 pb-2">
+                <div class="table-responsive p-0">
+                    <table class="table align-items-center mb-0">
+    <thead>
+        <tr>
+                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Stocks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LabelId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubCategoryId)
+            </th>
+@*             <th>
+                @Html.DisplayNameFor(model => model.ProductPhoto)
+            </th> *@
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ActiveId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LaunchTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cost)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    </<div>
+    </div>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Stocks)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LabelId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubCategoryId)
+            </td>
+@*             <td>
+                @Html.DisplayFor(modelItem => item.ProductPhoto)
+            </td> *@
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ActiveId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LaunchTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cost)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
