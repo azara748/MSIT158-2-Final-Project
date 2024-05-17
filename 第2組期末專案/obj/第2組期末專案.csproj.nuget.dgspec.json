@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\00000_期末專案\\期末報告\\第2組期末專案\\第2組期末專案.csproj": {}
+    "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj": {}
   },
   "projects": {
-    "C:\\00000_期末專案\\期末報告\\第2組期末專案\\第2組期末專案.csproj": {
+    "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00000_期末專案\\期末報告\\第2組期末專案\\第2組期末專案.csproj",
+        "projectUniqueName": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj",
         "projectName": "第2組期末專案",
-        "projectPath": "C:\\00000_期末專案\\期末報告\\第2組期末專案\\第2組期末專案.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\00000_期末專案\\期末報告\\第2組期末專案\\obj\\",
+        "projectPath": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\第2組期末專案.csproj",
+        "packagesPath": "C:\\Users\\wanks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wanks\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -406,3 +406,15 @@ C:\00000_期末專案\期末報告\第2組期末專案\bin\Debug\net7.0\ru\Micro
 C:\00000_期末專案\期末報告\第2組期末專案\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\00000_期末專案\期末報告\第2組期末專案\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\00000_期末專案\期末報告\第2組期末專案\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.csproj.AssemblyReference.cache
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.AssemblyInfoInputs.cache
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.AssemblyInfo.cs
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.csproj.CoreCompileInputs.cache
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.RazorAssemblyInfo.cache
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.RazorAssemblyInfo.cs
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.sourcelink.json
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.dll
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\refint\第2組期末專案.dll
+C:\Users\wanks\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.pdb

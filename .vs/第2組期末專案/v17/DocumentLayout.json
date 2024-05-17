@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T00:49:42.727Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
