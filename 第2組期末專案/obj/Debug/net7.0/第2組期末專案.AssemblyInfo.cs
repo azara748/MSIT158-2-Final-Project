@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("第2組期末專案")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41a4410766f2313b96ba3e688449d4a27a46d3ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e3198d18d1ec3c6ea875ed86637e29e7eec1d8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("第2組期末專案")]
 [assembly: System.Reflection.AssemblyTitleAttribute("第2組期末專案")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
