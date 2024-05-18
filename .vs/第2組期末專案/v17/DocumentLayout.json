@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\shared\\_layout_backstage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\shared\\_layout_backstage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +22,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout_Backstage.cshtml",
+              "DocumentMoniker": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout_Backstage.cshtml",
+              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout_Backstage.cshtml",
+              "ToolTip": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout_Backstage.cshtml",
+              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout_Backstage.cshtml",
+              "ViewState": "AQIAABkCAAAAAAAAAAAAACsCAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T07:02:10.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:21:54.435Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\00000_\u671F\u672B\u5C08\u6848\\\u671F\u672B\u5831\u544A\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Product\\List.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T00:49:42.727Z",
+              "WhenOpened": "2024-05-18T06:20:04.546Z",
               "EditorCaption": ""
             }
           ]
