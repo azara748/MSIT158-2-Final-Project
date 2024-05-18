@@ -1,0 +1,123 @@
+﻿@model 第2組期末專案.Models.TProduct
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .p1 {
+        width: 450px;
+        height: 450px;
+        object-fit: contain;
+        border-style: double;
+        float: left;
+        margin-left: 5%;
+    }
+
+    .p2 {
+        width: 50px;
+        height: 50px;
+        object-fit: contain;
+    }
+
+    .l1 {
+        font-size: 200%;
+    }
+
+    .d2 {
+        width: 600px;
+        float: right;
+        margin-right: 10%;
+    }
+
+    .d3 {
+        clear: both;
+        margin-left: 5%;
+    }
+
+    .d4 {
+        margin-left: 5%;
+    }
+</style>
+
+@if (Model.ProductPhoto != null)
+{
+    <img src="data:image/jpeg;base64,@System.Convert.ToBase64String(Model.ProductPhoto)" class="p1">
+}
+@{
+    int p = Convert.ToInt32(Model.UnitPrice);
+    //https://localhost:7058/f%E5%95%86%E5%93%81%E8%A9%B3%E7%B4%B0/Index/1
+}
+<div class="d2">
+    <br />
+    <p class="l1">@Model.ProductName</p>
+    <br />
+    <label class="l1">$@p</label>
+    <br />
+    <br />
+    <label class="l1">庫存:@Model.Stocks</label>
+    <br />
+    <br />
+    <input type="button" value="一" />
+    <input type="text" value="0" style="width:15%" />
+    <input type="button" value="十" />
+    <br />
+    <br />
+    <input type="button" value="直接購買" />
+    <label>&nbsp;</label>
+    <input type="button" value="加入購物車" />
+</div>
+<div class="d3">
+    <br />
+    <hr />
+    @{
+        string d = Model.Description;
+        d = d.Replace("\r\n", "<br/>").Replace("\n", "<br/>");
+    }
+    <p>
+        @Html.Raw(d)
+    </p>
+    <hr />
+</div>
+<div class="d4">
+    <table class="table">
+        <tbody>
+            @{
+                int c = 0;
+                foreach (var item in ViewBag.b)
+                {
+                    c++;
+                    if (c > 10) { break; }
+                    <tr>
+                        <td>
+                            <img src="~/assets/img/abc.jpg" class="p2" />
+                        </td>
+                        <td>
+                            @{
+                                string n = item.MemberName;
+                                n=n.Substring(n.Length - n.Length, 1);
+                                n += "**";
+                            }
+                            @n
+                        </td>
+                        <td>
+                            @{
+                                string s = "";
+                                for (int i = 0; i < item.RankId; i++)
+                                { s += "★"; }
+                            }
+                            @s
+                        </td>
+                        <td>
+                            @item.Comment
+                        </td>
+                        <td>
+                            @item.ReviewDate
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+</div>
