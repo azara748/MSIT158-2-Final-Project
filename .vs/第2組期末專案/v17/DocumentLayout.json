@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\f\u5546\u54C1\u8A73\u7D30\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\f\u5546\u54C1\u8A73\u7D30\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\\u524D\u53F0\\f\u8CFC\u7269\u8ECA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\\u524D\u53F0\\f\u8CFC\u7269\u8ECA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\\u524D\u53F0\\f\u5546\u54C1\u8A73\u7D30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\\u524D\u53F0\\f\u5546\u54C1\u8A73\u7D30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\f\u8CFC\u7269\u8ECA\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\f\u8CFC\u7269\u8ECA\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\f\u5546\u54C1\u8A73\u7D30\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\f\u5546\u54C1\u8A73\u7D30\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\f\u5546\u54C1\u8A73\u7D30\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\views\\f\u5546\u54C1\u8A73\u7D30\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|c:\\users\\wanks\\source\\repos\\msit158-2-final-project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\models\\selectshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625E7D6C-CED4-4132-A9B6-5AEEB1CFEC66}|\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848.csproj|solutionrelative:\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\models\\selectshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,63 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T02:45:18.197Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index2.cshtml",
-              "DocumentMoniker": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u5546\u54C1\u8A73\u7D30\\Index2.cshtml",
-              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u5546\u54C1\u8A73\u7D30\\Index2.cshtml",
-              "ToolTip": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u5546\u54C1\u8A73\u7D30\\Index2.cshtml",
-              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u5546\u54C1\u8A73\u7D30\\Index2.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T04:19:04.888Z",
+              "DocumentIndex": 0,
+              "Title": "f\u8CFC\u7269\u8ECA.cs",
+              "DocumentMoniker": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\\u524D\u53F0\\f\u8CFC\u7269\u8ECA.cs",
+              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\\u524D\u53F0\\f\u8CFC\u7269\u8ECA.cs",
+              "ToolTip": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\\u524D\u53F0\\f\u8CFC\u7269\u8ECA.cs*",
+              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\\u524D\u53F0\\f\u8CFC\u7269\u8ECA.cs*",
+              "ViewState": "AQIAABgAAAAAAAAAAAApwB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:42:47.862Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Models\\SelectShopContext.cs",
+              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Models\\SelectShopContext.cs",
+              "ToolTip": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Models\\SelectShopContext.cs",
+              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Models\\SelectShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:07:52.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Program.cs",
+              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Program.cs",
+              "ToolTip": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Program.cs",
+              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:07:25.082Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAwB8AAAB4AAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u8CFC\u7269\u8ECA\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u8CFC\u7269\u8ECA\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u8CFC\u7269\u8ECA\\Index.cshtml",
+              "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u8CFC\u7269\u8ECA\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADwAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T03:32:55.467Z",
+              "WhenOpened": "2024-05-18T09:23:55.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u5546\u54C1\u8A73\u7D30\\Index.cshtml",
               "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u5546\u54C1\u8A73\u7D30\\Index.cshtml",
               "ToolTip": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u5546\u54C1\u8A73\u7D30\\Index.cshtml",
               "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Views\\f\u5546\u54C1\u8A73\u7D30\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAiwB0AAAAAAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T02:45:48.205Z",
+              "WhenOpened": "2024-05-18T05:05:51.948Z",
               "EditorCaption": ""
             },
             {
@@ -97,9 +111,9 @@
               "RelativeDocumentMoniker": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\\u524D\u53F0\\f\u5546\u54C1\u8A73\u7D30.cs",
               "ToolTip": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\\u524D\u53F0\\f\u5546\u54C1\u8A73\u7D30.cs",
               "RelativeToolTip": "\u7B2C2\u7D44\u671F\u672B\u5C08\u6848\\Controllers\\\u524D\u53F0\\f\u5546\u54C1\u8A73\u7D30.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA8wA4AAAAOAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T02:45:21.522Z",
+              "WhenOpened": "2024-05-18T08:52:52.959Z",
               "EditorCaption": ""
             }
           ]

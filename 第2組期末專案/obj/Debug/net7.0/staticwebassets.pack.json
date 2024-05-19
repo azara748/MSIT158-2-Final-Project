@@ -1137,64 +1137,16 @@
       "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss"
     },
     {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\css\\nouislider.min.css",
-      "PackagePath": "staticwebassets\\css\\nouislider.min.css"
-    },
-    {
       "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\css\\slick-theme.css",
-      "PackagePath": "staticwebassets\\css\\slick-theme.css"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\css\\slick.css",
-      "PackagePath": "staticwebassets\\css\\slick.css"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\js\\jquery.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\js\\jquery.zoom.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.zoom.min.js"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\js\\main.js",
-      "PackagePath": "staticwebassets\\js\\main.js"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\js\\nouislider.min.js",
-      "PackagePath": "staticwebassets\\js\\nouislider.min.js"
-    },
-    {
       "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\js\\slick.min.js",
-      "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
       "Id": "C:\\Users\\wanks\\source\\repos\\MSIT158-2-Final-Project\\第2組期末專案\\wwwroot\\lib\\bootstrap\\LICENSE",

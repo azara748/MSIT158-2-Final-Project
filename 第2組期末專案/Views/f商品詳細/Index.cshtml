@@ -4,7 +4,7 @@
     ViewData["Title"] = "Index";
 }
 <style>
-    .p1 {
+    .im1 {
         width: 450px;
         height: 450px;
         object-fit: contain;
@@ -13,7 +13,14 @@
         margin-left: 5%;
     }
 
-    .p2 {
+    .im2 {
+        width: 80px;
+        height: 80px;
+        object-fit: contain;
+        border-radius: 150px
+    }
+
+    .im3 {
         width: 50px;
         height: 50px;
         object-fit: contain;
@@ -37,11 +44,20 @@
     .d4 {
         margin-left: 5%;
     }
+
+    .pm {
+        font-weight: bolder;
+    }
+
+    .pmt {
+        width: 10%;
+        text-align: center;
+    }
 </style>
 
 @if (Model.ProductPhoto != null)
 {
-    <img src="data:image/jpeg;base64,@System.Convert.ToBase64String(Model.ProductPhoto)" class="p1">
+    <img src="data:image/jpeg;base64,@System.Convert.ToBase64String(Model.ProductPhoto)" class="im1">
 }
 @{
     int p = Convert.ToInt32(Model.UnitPrice);
@@ -57,17 +73,38 @@
     <label class="l1">庫存:@Model.Stocks</label>
     <br />
     <br />
-    <input type="button" value="一" />
-    <input type="text" value="0" style="width:15%" />
-    <input type="button" value="十" />
-    <br />
-    <br />
-    <input type="button" value="直接購買" />
-    <label>&nbsp;</label>
-    <input type="button" value="加入購物車" />
+    @using (Html.BeginForm())
+    {
+        <input type="button" value="－" class="pm" onclick="cm()" />
+        <input type="text" value="1" class="pmt" id="pmt" name="Qty" />
+        <input type="button" value="＋" class="pm" onclick="cp()" />
+        <br />
+        <br />
+        <input type="hidden" value="@Model.ProductId" name="ProductId" />
+        @Html.ActionLink("直接購買", "直接購買", "f購物車", new { id = @Model.ProductId, Qty = 1 }, new { Class = "btn btn-secondary" })
+        ;
+        <label>&nbsp;</label>
+        <input type="submit" value="加入購物車" Class="btn btn-secondary" />
+        <script>
+            function cp() { if (pmt.value >= @Model.Stocks)return; pmt.value++; }
+            function cm() { if (pmt.value < 2) return; pmt.value--; }
+        </script>
+    }
 </div>
 <div class="d3">
     <br />
+    @if (ViewBag.c.SupplierPhoto != null)
+    {
+        <img src="data:image/jpeg;base64,@System.Convert.ToBase64String(ViewBag.c.SupplierPhoto)" class="im2">
+    }
+    <label class="l1">
+        &nbsp;@ViewBag.c.LabelName
+    </label>
+    <br />
+    <br />
+    <p>
+        @ViewBag.c.Description
+    </p>
     <hr />
     @{
         string d = Model.Description;
@@ -87,37 +124,35 @@
                 {
                     c++;
                     if (c > 10) { break; }
-                    <tr>
-                        <td>
-                            <img src="~/assets/img/abc.jpg" class="p2" />
-                        </td>
-                        <td>
-                            @{
+                                    <tr>
+                                        <td>
+                                            <img src="~/assets/img/abc.jpg" class="im3" />
+                                        </td>
+                                        <td>
+                                            @{
                                 string n = item.MemberName;
-                                n=n.Substring(n.Length - n.Length, 1);
+                                n = n.Substring(n.Length - n.Length, 1);
                                 n += "**";
-                            }
-                            @n
-                        </td>
-                        <td>
-                            @{
+                                            }
+                                            @n
+                                        </td>
+                                        <td>
+                                            @{
                                 string s = "";
                                 for (int i = 0; i < item.RankId; i++)
                                 { s += "★"; }
-                            }
-                            @s
-                        </td>
-                        <td>
-                            @item.Comment
-                        </td>
-                        <td>
-                            @item.ReviewDate
-                        </td>
-                    </tr>
+                                            }
+                                            @s
+                                        </td>
+                                        <td>
+                                            @item.Comment
+                                        </td>
+                                        <td>
+                                            @item.ReviewDate
+                                        </td>
+                                    </tr>
                 }
             }
         </tbody>
     </table>
-</div>
-
 </div>

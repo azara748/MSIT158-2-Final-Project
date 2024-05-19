@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<head>
+    <style>
+        .im2 {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+        }
+        .pm{
+            font-weight: bolder;
+        }
+        .pmt{
+            width:10%;
+            text-align:center;
+        }
+    </style>
+</head>
+<h1>購物車</h1>
+<table class="table">
+    <tbody>
+        <tr>
+            <td>
+                <input type="checkbox" />
+            </td>
+            <td>
+                照片
+            </td>
+            <td>
+                商品
+            </td>
+            <td>
+                數量
+            </td>
+            <td>              
+                價格
+            </td>
+        </tr>
+        @foreach (var item in ViewBag.b)
+        {
+            <tr>          
+                <td>
+                    <br />
+                    <input type="hidden" value="item.CartId" />
+                    <input type="checkbox" />
+                </td>
+                <td>
+                    @if (item.ProductPhoto != null)
+                    {
+                        <img src="data:image/jpeg;base64,@System.Convert.ToBase64String(item.ProductPhoto)" class="im2">
+                    }
+                </td>
+                <td>
+                    <br />
+                    @item.ProductName
+                </td>
+                <td>
+                   <br />
+                    <input type="button" value="－" class="pm" onclick="cm()" />
+                    <input type="text" value="@item.Qty" class="pmt" id="pmt" name="Qty" />
+                    <input type="button" value="＋" class="pm" onclick="cp()" />
+                    <script>
+                        function cp() { if (pmt.value >= @item..Stocks) return; pmt.value++; }
+                        function cm() { if (pmt.value < 2) return; pmt.value--; }
+                    </script>
+                <td>
+                    <br />
+                    @{
+                        int p = Convert.ToInt32(item.UnitPrice);
+                    }
+                    @p
+                </td>
+                <td><br />@Html.ActionLink("刪除", "delete", "f購物車", new { id = item.CartId }, new { onclick = "return confirm('確定要刪除嗎?')" })</td>
+            </tr>
+        }
+    </tbody>
+</table>
