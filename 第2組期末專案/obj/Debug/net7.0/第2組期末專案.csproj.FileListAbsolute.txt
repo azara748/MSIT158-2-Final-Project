@@ -134,7 +134,6 @@ C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.RazorAssemblyInfo.cache
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.RazorAssemblyInfo.cs
-C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.sourcelink.json
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\staticwebassets\msbuild.第2組期末專案.Microsoft.AspNetCore.StaticWebAssets.props
@@ -145,9 +144,9 @@ C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\scopedcss\bundle\第2組期末專案.styles.css
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\scopedcss\projectbundle\第2組期末專案.bundle.scp.css
-C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.csproj.Up2Date
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.dll
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\refint\第2組期末專案.dll
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.pdb
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.genruntimeconfig.cache
 C:\Users\User\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\ref\第2組期末專案.dll
+C:\Users\User\source\repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.csproj.CopyComplete
