@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Edit";
+    Layout = "_Layout_Backstage";
 }
 
 <h1>編輯商品</h1>
@@ -67,6 +68,12 @@
                 <input asp-for="Cost" class="form-control" />
                 <span asp-validation-for="Cost" class="text-danger"></span>
             </div>
+@*             <div class="form-group">
+                上傳商品照片:
+                <div class="col-md-10">
+                    <input type="file" name="photo" />
+                </div>
+                </div> *@
             <div class="form-group">
                 <input type="submit" value="儲存並返回" class="btn btn-primary" />
             </div>
