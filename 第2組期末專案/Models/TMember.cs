@@ -13,7 +13,7 @@ public partial class TMember
 
     public string? Address { get; set; }
 
-    public DateTime? Birthday { get; set; }
+    public DateOnly? Birthday { get; set; }
 
     public string? Sex { get; set; }
 

@@ -64,7 +64,7 @@ public partial class SelectShopContext : DbContext
     public virtual DbSet<TSubCategory> TSubCategories { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=SelectShop;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -287,7 +287,6 @@ public partial class SelectShopContext : DbContext
 
             entity.Property(e => e.MemberId).HasColumnName("MemberID");
             entity.Property(e => e.Address).HasMaxLength(50);
-            entity.Property(e => e.Birthday).HasColumnType("date");
             entity.Property(e => e.Cellphone).HasMaxLength(50);
             entity.Property(e => e.EMail)
                 .HasMaxLength(50)
@@ -371,9 +370,9 @@ public partial class SelectShopContext : DbContext
             entity.Property(e => e.PackageWayDetailId).HasColumnName("PackageWayDetailID");
             entity.Property(e => e.Amount).HasColumnType("money");
             entity.Property(e => e.OrderId).HasColumnName("OrderID");
-            entity.Property(e => e.PackQty).HasDefaultValueSql("((1))");
+            entity.Property(e => e.PackQty).HasDefaultValue(1);
             entity.Property(e => e.PackageId)
-                .HasDefaultValueSql("((0))")
+                .HasDefaultValue(0)
                 .HasColumnName("PackageID");
 
             entity.HasOne(d => d.Order).WithMany(p => p.TPackageWayDetails)
