@@ -406,6 +406,8 @@ C:\00000_期末專案\期末報告\第2組期末專案\bin\Debug\net7.0\ru\Micro
 C:\00000_期末專案\期末報告\第2組期末專案\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\00000_期末專案\期末報告\第2組期末專案\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\00000_期末專案\期末報告\第2組期末專案\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+<<<<<<< HEAD
+=======
 C:\Users\Gaming VR\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Gaming VR\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\bin\Debug\net7.0\appsettings.json
 C:\Users\Gaming VR\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\bin\Debug\net7.0\第2組期末專案.staticwebassets.runtime.json
@@ -661,6 +663,7 @@ C:\Users\Gaming VR\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\
 C:\Users\Gaming VR\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.pdb
 C:\Users\Gaming VR\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\第2組期末專案.genruntimeconfig.cache
 C:\Users\Gaming VR\Source\Repos\MSIT158-2-Final-Project\第2組期末專案\obj\Debug\net7.0\ref\第2組期末專案.dll
+>>>>>>> main
 C:\Users\Administrator\Desktop\第2組期末專案\第2組期末專案\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Administrator\Desktop\第2組期末專案\第2組期末專案\bin\Debug\net7.0\appsettings.json
 C:\Users\Administrator\Desktop\第2組期末專案\第2組期末專案\bin\Debug\net7.0\第2組期末專案.staticwebassets.runtime.json

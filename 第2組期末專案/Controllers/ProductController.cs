@@ -64,11 +64,11 @@ namespace 第2組期末專案.Controllers
             TProduct proDb = db.TProducts.FirstOrDefault(x => x.ProductId == pw.ProductId);
             if (proDb != null)
             {
-                //if (pw.ProductPhoto != null)
+                //if (pw.photo != null)
                 //{
                 //    string photoName = Guid.NewGuid().ToString() + ".png";
                 //    proDb.ProductPhoto = photoName;
-                //    pw.ProductPhoto.CopyTo(new FileStream(_enviro.WebRootPath + "/image/" + photoName, FileMode.Create));
+                //    pw.photo.CopyTo(new FileStream(_enviro.WebRootPath + "/image/" + photoName, FileMode.Create));
                 //}
                 proDb.ProductName = pw.ProductName;
                 proDb.UnitPrice = pw.UnitPrice;

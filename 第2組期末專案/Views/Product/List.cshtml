@@ -2,64 +2,57 @@
 
 @{
     ViewData["Title"] = "List";
-    Layout = "_Layout_Backstage";
+    Layout = "_Layout_Back";
 }
 <h1>商品列表</h1>
-
-    <label><input type="checkbox" id="chkStocks" checked>庫存</label>
-    <label><input type="checkbox" id="chkLabelId" checked>品牌ID</label>
-    <label><input type="checkbox" id="chkSubCategoryId" checked>副類別ID</label>
-    <label><input type="checkbox" id="chkUnitPrice" checked>價格</label>
-    <label><input type="checkbox" id="chkDescription" checked>描述</label>
-    <label><input type="checkbox" id="chkActiveId" checked>活動ID</label>
-    <label><input type="checkbox" id="chkLaunchTime" checked>上架時間</label>
-    <label><input type="checkbox" id="chkCost" checked>成本</label>
 
 <p>
     <a asp-action="Create">新增商品</a>
 </p>
-<table>
+            <div class="card-body px-0 pt-0 pb-2">
+                <div class="table-responsive p-0">
+                    <table class="table align-items-center mb-0">
     <thead>
         <tr>
-
-            <th>
+                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
                 @Html.DisplayNameFor(model => model.ProductId)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.ProductName)
             </th>
-            <th id="Stocks-th">
-                    @Html.DisplayNameFor(model => model.Stocks)
+            <th>
+                @Html.DisplayNameFor(model => model.Stocks)
             </th>
-            <th id="LabelId-th">
+            <th>
                 @Html.DisplayNameFor(model => model.LabelId)
             </th>
-            <th id="SubCategoryId-th">
+            <th>
                 @Html.DisplayNameFor(model => model.SubCategoryId)
             </th>
 @*             <th>
                 @Html.DisplayNameFor(model => model.ProductPhoto)
             </th> *@
-            <th id="UnitPrice-th">
+            <th>
                 @Html.DisplayNameFor(model => model.UnitPrice)
             </th>
-            <th id="Description-th">
+            <th>
                 @Html.DisplayNameFor(model => model.Description)
             </th>
-            <th id="ActiveId-th">
+            <th>
                 @Html.DisplayNameFor(model => model.ActiveId)
             </th>
-            <th id="LaunchTime-th">
+            <th>
                 @Html.DisplayNameFor(model => model.LaunchTime)
             </th>
-            <th id="Cost-th">
+            <th>
                 @Html.DisplayNameFor(model => model.Cost)
             </th>
             <th></th>
         </tr>
     </thead>
+    </<div>
+    </div>
     <tbody>
-
 @foreach (var item in Model) {
         <tr>
             <td>
@@ -68,163 +61,39 @@
             <td>
                 @Html.DisplayFor(modelItem => item.ProductName)
             </td>
-                <td class="Stocks-td">
+            <td>
                 @Html.DisplayFor(modelItem => item.Stocks)
             </td>
-                <td class="LabelId-td">
+            <td>
                 @Html.DisplayFor(modelItem => item.LabelId)
             </td>
-                <td class="SubCategoryId-td">
+            <td>
                 @Html.DisplayFor(modelItem => item.SubCategoryId)
             </td>
 @*             <td>
                 @Html.DisplayFor(modelItem => item.ProductPhoto)
             </td> *@
-                <td class="UnitPrice-td">
+            <td>
                 @Html.DisplayFor(modelItem => item.UnitPrice)
             </td>
-                <td class="Description-td">
+            <td>
                 @Html.DisplayFor(modelItem => item.Description)
             </td>
-                <td class="ActiveId-td">
+            <td>
                 @Html.DisplayFor(modelItem => item.ActiveId)
             </td>
-                <td class="LaunchTime-td">
+            <td>
                 @Html.DisplayFor(modelItem => item.LaunchTime)
             </td>
-                <td class="Cost-td">
+            <td>
                 @Html.DisplayFor(modelItem => item.Cost)
             </td>
             <td>
-               @Html.ActionLink("修改", "Edit", "Product", new { id = item.ProductId},null)|
-              @Html.ActionLink("刪除", "delete", "Product", new { id = item.ProductId }, new { onclick = "return confirm('您確定要刪除嗎??')"})
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
             </td>
         </tr>
-    }
+}
     </tbody>
 </table>
-@section Scripts {
-    <script>
-
-        document.getElementById('chkStocks').addEventListener('change', function () {
-            var sth = document.getElementById('Stocks-th');
-            var std = document.getElementsByClassName('Stocks-td');
-            if (!this.checked) {
-                sth.style.display = 'none';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = 'none';
-                }
-            } else {
-                sth.style.display = '';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = '';
-                }
-            }
-        });
-        document.getElementById('chkLabelId').addEventListener('change', function () {
-            var sth = document.getElementById('LabelId-th');
-            var std = document.getElementsByClassName('LabelId-td');
-            if (!this.checked) {
-                sth.style.display = 'none';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = 'none';
-                }
-            } else {
-                sth.style.display = '';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = '';
-                }
-            }
-        });
-        document.getElementById('chkSubCategoryId').addEventListener('change', function () {
-            var sth = document.getElementById('SubCategoryId-th');
-            var std = document.getElementsByClassName('SubCategoryId-td');
-            if (!this.checked) {
-                sth.style.display = 'none';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = 'none';
-                }
-            } else {
-                sth.style.display = '';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = '';
-                }
-            }
-        });
-        document.getElementById('chkUnitPrice').addEventListener('change', function () {
-            var sth = document.getElementById('UnitPrice-th');
-            var std = document.getElementsByClassName('UnitPrice-td');
-            if (!this.checked) {
-                sth.style.display = 'none';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = 'none';
-                }
-            } else {
-                sth.style.display = '';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = '';
-                }
-            }
-        });
-        document.getElementById('chkDescription').addEventListener('change', function () {
-            var sth = document.getElementById('Description-th');
-            var std = document.getElementsByClassName('Description-td');
-            if (!this.checked) {
-                sth.style.display = 'none';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = 'none';
-                }
-            } else {
-                sth.style.display = '';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = '';
-                }
-            }
-        });
-        document.getElementById('chkActiveId').addEventListener('change', function () {
-            var sth = document.getElementById('ActiveId-th');
-            var std = document.getElementsByClassName('ActiveId-td');
-            if (!this.checked) {
-                sth.style.display = 'none';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = 'none';
-                }
-            } else {
-                sth.style.display = '';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = '';
-                }
-            }
-        });
-        document.getElementById('chkLaunchTime').addEventListener('change', function () {
-            var sth = document.getElementById('LaunchTime-th');
-            var std = document.getElementsByClassName('LaunchTime-td');
-            if (!this.checked) {
-                sth.style.display = 'none';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = 'none';
-                }
-            } else {
-                sth.style.display = '';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = '';
-                }
-            }
-        });
-        document.getElementById('chkCost').addEventListener('change', function () {
-            var sth = document.getElementById('Cost-th');
-            var std = document.getElementsByClassName('Cost-td');
-            if (!this.checked) {
-                sth.style.display = 'none';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = 'none';
-                }
-            } else {
-                sth.style.display = '';
-                for (var i = 0; i < std.length; i++) {
-                    std[i].style.display = '';
-                }
-            }
-        });
-    </script>
-}
